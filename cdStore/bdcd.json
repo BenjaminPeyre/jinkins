@@ -1,0 +1,68 @@
+{
+  "CD": [
+    {
+      "id": 1,
+      "title": "The Dark Side of the Moon",
+      "author": "Pink Floyd",
+      "price": 10,
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+      "dateDeSortie": "1973-04-01T07:00:00.000Z",
+      "quantite": 1
+    },
+    {
+      "id": 2,
+      "title": "Pulse",
+      "author": "Pink Floyd",
+      "price": 10,
+      "thumbnail": "https://pinkfloydhyperbase.dk/illu/covers/pulse.jpg",
+      "dateDeSortie": "1974-05-11T07:00:00.000Z",
+      "quantite": 230,
+      "onsale": true
+    },
+    {
+      "id": 3,
+      "title": "Pulse1",
+      "author": "Punk Flood",
+      "price": 100,
+      "thumbnail": "https://pinkfloydhyperbase.dk/illu/covers/pulse.jpg",
+      "dateDeSortie": "1984-07-20T07:00:00.000Z",
+      "quantite": 1
+    },
+    {
+      "id": 4,
+      "title": "Pulse1",
+      "author": "Punk Flood",
+      "price": 100,
+      "thumbnail": "https://pinkfloydhyperbase.dk/illu/covers/pulse.jpg",
+      "dateDeSortie": "1984-07-20T07:00:00.000Z",
+      "quantite": 1
+    },
+    {
+      "id": 5,
+      "title": "F",
+      "author": "Mos",
+      "price": 5,
+      "thumbnail": null,
+      "dateDeSortie": "2023-03-14",
+      "quantite": 5
+    },
+    {
+      "id": 6,
+      "title": "AIGRI",
+      "author": "CONTROLO",
+      "price": 5,
+      "thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nichemarket.co.za%2Fwp-content%2Fuploads%2F2017%2F08%2Fgoogle-amp-fast-speed-travel-ss-1920.jpg&f=1&nofb=1&ipt=cf93fa319ea1de2ce4a976ecda7e0088e802901b37b5bc82f41c60cd17072a5f&ipo=images",
+      "dateDeSortie": "2023-03-09",
+      "quantite": 5
+    },
+    {
+      "id": 7,
+      "title": "tyr",
+      "author": "ydfyugihi",
+      "price": null,
+      "thumbnail": "r",
+      "dateDeSortie": null,
+      "quantite": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.list-cd {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-column-gap: 15px;
+}
+
+@media (max-width: 768px) {
+    .list-cd {
+        grid-template-columns: 100%;
+        grid-column-gap: 0;
+        grid-row-gap: 10px;
+    }
+}
